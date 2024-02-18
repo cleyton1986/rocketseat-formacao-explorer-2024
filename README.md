@@ -1,7 +1,7 @@
 <img style='max-height: 200px; width:100%' alt="Top Explorer" src="./assets/capaExplorer.png"/>
 
 <h3 align="center">
-  Repositório Formação Explorer - 2024
+  Repositório Formação Explorer RocketSeat - 2024
 </h3>
 
 <blockquote align="center">“Não espere resultados brilhantes se suas metas não forem claras”!</blockquote>

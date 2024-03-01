@@ -33,4 +33,8 @@ Após concluir o desafio, que tal fazer um post no LinkedIn compartilhando um pr
 É uma excelente forma de demonstrar seus conhecimentos e atrair novas oportunidades! 😍
 Obs: fique à vontade pra nos marcar! Vai ser incrível acompanhar a sua evolução! 💜
 
+# Outras resoluções
+
+[Semântica e Acessibilidade](https://efficient-sloth-d85.notion.site/Sem-ntica-e-Acessibilidade-f39b2ddcaa7a4ec4907cf23d15aec580)
+
 Feito com 💜 por Rocketseat 👋 Participe da nossa [comunidade aberta](https://discord.gg/Ns86RQyVH8)

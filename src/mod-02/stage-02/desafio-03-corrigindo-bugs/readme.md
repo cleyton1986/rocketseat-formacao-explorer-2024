@@ -32,4 +32,8 @@ Após concluir o desafio, que tal fazer um post no LinkedIn compartilhando o seu
 É uma excelente forma de demonstrar seus conhecimentos e atrair novas oportunidades! 😍
 Obs: Se você se sentir à vontade, pode postar um print do resultado final e nos marcar! Vai ser incrível acompanhar a sua evolução! 💜
 
+# Outras Resoluções
+
+[Corrigindo bugs 02](https://efficient-sloth-d85.notion.site/Corrigindo-bugs-02-41d700c105764092a5310af8ffd10d54)
+
 Feito com 💜 por Rocketseat 👋 Participe da nossa [comunidade aberta](https://discord.gg/Ns86RQyVH8)

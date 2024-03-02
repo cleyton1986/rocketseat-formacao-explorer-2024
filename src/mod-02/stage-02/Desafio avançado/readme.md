@@ -37,8 +37,12 @@ Obs: Se você se sentir à vontade, pode postar um print do resultado final e no
 
 Vai ser incrível acompanhar a sua evolução! 💜
 
-## 📅 Resultado final 👇️
+## 👨‍💻 Resultado final 👇️
 
 <img src="./assets/layoutRecriado.png">
+
+## 📅 Outras resoluções 👇️
+
+[Recriando o Layout](https://efficient-sloth-d85.notion.site/Recriando-o-Layout-98054ddef6cc4f4fa5f3916259951a28)
 
 Feito com 💜 por Rocketseat 👋 Participe da nossa [comunidade aberta!](https://discord.gg/Ns86RQyVH8)

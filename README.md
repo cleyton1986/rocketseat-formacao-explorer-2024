@@ -15,7 +15,7 @@
 
 ## Módulo 02 - Introdução ao HTML e CSS
 
-<img alt="Top Explorer" src="./assets/mod01.png"/>
+<img alt="Top Explorer" src="./assets/mod02.png"/>
 
 </br></br>
 
